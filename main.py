@@ -983,7 +983,7 @@ if __name__ == "__main__":
     ioDir = os.path.abspath(args.iodir)
     parentDir = os.path.dirname(ioDir)
 
-    outputDir = os.path.join(parentDir, 'output_zg2609')
+    outputDir = os.path.join(parentDir, 'output')
     if not os.path.exists(outputDir):
         os.makedirs(outputDir)
 
