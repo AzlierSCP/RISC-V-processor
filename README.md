@@ -8,19 +8,6 @@ run main.py
 The input file needs to be the following format and path.
 The output folder will be created automatically (output)
 
-Project root
-|
-|_ input/
-|	|_testcase0
-|	|	|_imem.txt
-|	|	|_dmem.txt
-|	|_testcase1
-|	|	|_imem.txt
-|	|	|_dmem.txt
-|	|_testcasen
-|		|_imem.txt
-|		|_dmem.txt
-|
-|_ folder/
-	|_main.py  
-	|_additional files
+Project root/input/testcase/imem.txt & dmem.txt
+Project root/folder/main.py 
+
